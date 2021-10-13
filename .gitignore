@@ -1,5 +1,7 @@
 .idea/
 .ipynb_checkpoints/
 *.OUT
+*.out
+
 
 
