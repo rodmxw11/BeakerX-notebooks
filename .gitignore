@@ -2,6 +2,8 @@
 .ipynb_checkpoints/
 *.OUT
 *.out
+*.diff
+
 
 
 
